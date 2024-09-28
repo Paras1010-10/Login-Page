@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#first{
+    text-align: center;
+box-shadow: 5px 5px 5px black;
+width: 400px;
+height: 370px;
+border-radius: 20px;
+position: relative;
+top: 20px;
+}
+.box1{
+    font-family: "Exo 2", sans-serif;
+    word-spacing: 5px;
+    font-size: 20px;
+    color: rgb(124, 76, 16);
+}
+.form1 input{
+    padding: 6px 32px 8px 6px;
+    font-size: 16px;
+    border-radius: 10px;
+    border-style: groove;
+    margin-top: 20px;
+}
+.form2 input{
+    padding: 6px 32px 8px 6px;
+    font-size: 16px;
+    border-radius: 10px;
+    border-style: groove;
+    margin-top: 10px;
+}
+.form3 a{
+    font-family: "Exo 2", sans-serif;
+    margin-top: 0px;
+    color: blue;
+    position: relative;
+    right: 60px;
+    text-decoration: none;
+}
+.button button{
+    font-family: "Exo 2", sans-serif;
+    font-size: 20px;
+    width: 220px;
+}
+button:hover{
+    width: 260px;
+}
